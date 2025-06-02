@@ -2,6 +2,7 @@
   github:
     branches:
       only: main
+# This workflow will run on every push to the main branch
 jobs:
   CloneRepo:
     resources:
